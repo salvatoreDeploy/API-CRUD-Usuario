@@ -37,7 +37,7 @@
 
 ## Implementação:
 
-Realizar um gitclone deste repositorio com este comnando:
+Realizar um gitclone deste repositorio com este comnando: `git@github.com:salvatoreDeploy/API-CRUD-Usuario.git`
 
 - Download, criação dos containers com banco MySql:
 
